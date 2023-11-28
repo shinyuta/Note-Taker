@@ -15,7 +15,7 @@
   This project uses express to save, delete, and create notes. I also utilised uuid4 for unique ids (for database purposes).
 
   ## Installation 
-  Locally, you can use the video above (`npm install` `npm run start`).
+  Hosted live on [Heroku](https://shinyuta-note-taker-0f276cc1c591.herokuapp.com/). Locally, you can use the video above (`npm install` `npm run start`).
 
   ## Usage
   To create, delete, and save notes.
